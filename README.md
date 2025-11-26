@@ -1,4 +1,4 @@
-# Applicztion de bureau de gestion d'équipement de sport d'hiver
+# Application de bureau de gestion d'équipement de sport d'hiver
 
 Un projet C# visant à gérer un magasin de sport (catalogue produits, stocks, ventes, clients, commandes, etc.).
 
